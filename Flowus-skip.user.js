@@ -3,8 +3,11 @@
 // @namespace    https://flowus.cn
 // @version      1.1
 // @description  自动跳过外链提示并移除 FlowUs 的安全警告弹窗
+// @license MIT
 // @match        https://flowus.cn/*
 // @grant        none
+// @updateURL    https://github.com/Goojoe/UserScript/raw/refs/heads/master/Flowus-skip.user.js
+// @downloadURL  https://github.com/Goojoe/UserScript/raw/refs/heads/master/Flowus-skip.user.js
 // ==/UserScript==
 
 (function () {
